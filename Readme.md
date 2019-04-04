@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainPage.xaml](./CS/Routing/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Routing/MainPage.xaml.vb))**
+* **[MainPage.xaml](./CS/Routing/MainPage.xaml) (VB: [MainPage.xaml](./VB/Routing/MainPage.xaml))**
 * [MainPage.xaml.cs](./CS/Routing/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Routing/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to implement the basic routing functionality
